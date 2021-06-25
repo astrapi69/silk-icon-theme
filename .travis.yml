@@ -1,9 +1,9 @@
-# java-library-template .travis.yml
+# silk-icon-theme .travis.yml
 
 language: java
 
 jdk:
-    - openjdk11
+    - openjdk8
 
 notifications:
     email:
