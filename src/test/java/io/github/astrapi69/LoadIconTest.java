@@ -1,5 +1,7 @@
 package io.github.astrapi69;
 
+import io.github.astrapi69.icon.ImageIconFactory;
+import io.github.astrapi69.swing.button.IconButtonFactory;
 import org.junit.jupiter.api.Test;
 
 import javax.swing.*;
