@@ -2,16 +2,15 @@
 
 <div style="text-align: center">
 
-[![Build Status](https://travis-ci.com/astrapi69/silk-icon-theme.svg?branch=main)](https://travis-ci.com/astrapi69/silk-icon-theme)
 [![Open Issues](https://img.shields.io/github/issues/astrapi69/silk-icon-theme.svg?style=flat)](https://github.com/astrapi69/silk-icon-theme/issues)
-[![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.astrapi69/silk-icon-theme/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.github.astrapi69/silk-icon-theme)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.astrapi69/silk-icon-theme)](https://central.sonatype.com/artifact/io.github.astrapi69/silk-icon-theme)
 [![Donate](https://img.shields.io/badge/donate-❤-ff2244.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GVBTWLRAZ7HB8)
 
 </div>
 
 Basic set of desktop icons for java swing or FX application. 
 
-The original icons are from this [website](http://www.famfamfam.com/lab/icons/silk/) and designed from Mark James.
+The original icons are from this [website](https://web.archive.org/web/20221224123234/http://www.famfamfam.com/lab/icons/silk/) and designed from Mark James. The site itself no longer answers; the link goes to the Internet Archive's copy of 24 December 2022.
 
 If you like this project put a ⭐ and donate
 
@@ -90,8 +89,8 @@ resources
 
 # Maven dependency
 
-Maven dependency is now on sonatype.
-Check out [sonatype repository](https://oss.sonatype.org/index.html#nexus-search;gav~io.github.astrapi69~silk-icon-theme~~~) for latest snapshots and releases.
+The library is on Maven Central.
+Check out [Maven Central](https://central.sonatype.com/artifact/io.github.astrapi69/silk-icon-theme) for the latest release.
 
 Add the following maven dependency to your project `pom.xml` if you want to import the core 
 functionality of silk-icon-theme:
